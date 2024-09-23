@@ -95,7 +95,7 @@ void MarqueeWatch::drawVines() {
     numberOfLeafs = MAXIMUM_NUMBER_OF_LEAFS_PER_VINE * 2;
   }
 
-  // Check how many leafs we are above 17000 steps/Users/ron/Development/Arduino/Watchy/Code/marquee/README.md
+  // Check how many leafs we are above 17000 steps
   int numberOfLeafsLeft = numberOfLeafs - MAXIMUM_NUMBER_OF_LEAFS_PER_VINE;
 
   // Block out the vines until the point of interest
