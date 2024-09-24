@@ -16,6 +16,8 @@ class MarqueeWatch : public Watchy {
     void drawDate();
     void drawTime();
     void drawVines();
+    int getBatteryPercentage();
+    int getTens(int value);
 };
 
 #endif

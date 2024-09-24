@@ -2,7 +2,12 @@
 #define CONSTANTS_H
 
 const int BATTERY_BIRD_POSITIONS_X[6] = {
-  136, 128, 107, 87, 76, 52
+  52,
+  76,
+  87,
+  107,
+  128,
+  136
 };
 
 // a: 0, b: 1, c: 2, d: 3, e: 4, f: 5, g: 6, h: 7, j: 8, l: 9, m: 10, n: 11, o: 12, p: 13, r: 14, s: 15, t: 16, u: 17, v: 18, y: 19
